@@ -61,6 +61,7 @@ This project implements a **high-speed 8-bit Vedic Multiplier** using the **Urdh
 ## 📄 Publication  
 
 This work was presented at the **13th International Conference on Computing Communication and Networking Technologies (ICCCNT 2022)** and published by **IEEE**.  
+link : <a herf="https://ieeexplore.ieee.org/document/9984591"/>
 
 📑 Citation (BibTeX):  
 
