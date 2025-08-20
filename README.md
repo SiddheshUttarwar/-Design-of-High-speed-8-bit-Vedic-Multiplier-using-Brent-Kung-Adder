@@ -56,18 +56,6 @@ This project implements a **high-speed 8-bit Vedic Multiplier** using the **Urdh
 <img width="663" height="378" alt="image" src="https://github.com/user-attachments/assets/a8d5a4c4-79e9-4551-85e3-f13bfbcadb62" />
 
 
-
----
-
-## 📂 Repository Structure  
-
-├── src/ # Verilog HDL source files \n
-├── testbench/ # Testbench for simulations \n
-├── docs/ # Paper, results, and reports
-├── README.md # Project documentation
-└── LICENSE
-
-
 ---
 
 ## 📄 Publication  
