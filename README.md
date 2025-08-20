@@ -45,7 +45,7 @@ This project implements a **high-speed 8-bit Vedic Multiplier** using the **Urdh
 - Achieved **higher speed** with reduced **logic levels** compared to conventional multipliers.  
 
 **Simulation Output Example:**  
-*(Insert waveform/schematic image from repo here)*  
+<img width="810" height="959" alt="image" src="https://github.com/user-attachments/assets/8f98c21d-ecc0-4b48-9975-4e2740a1de49" /> 
 
 ---
 
